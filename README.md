@@ -7,7 +7,7 @@ telemetry via ThingSpeak.
 
 
 ![Prototype PoC](./images/PROJECT.jpeg)
-![PCB Design](./images/PCB_RGB.png)
+![PCB Design](./images/PCB.png)
 ------------------------------------------------------------------------------
 TABLE OF CONTENTS
 ------------------------------------------------------------------------------
