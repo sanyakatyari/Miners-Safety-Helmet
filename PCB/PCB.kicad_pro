@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.95,
-          "width": 0.9
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 1.27
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -214,7 +214,7 @@
         0.2,
         0.3,
         0.7,
-        2.0
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -483,7 +483,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -666,6 +666,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -678,7 +686,7 @@
         "uuid": "36f2856f-023e-44e6-a4e8-2ad009c18eda"
       }
     ],
-    "used_designators": "U1-6,P1,SW1-5,#PWR1-19,D1-2,#FLG1-2,R1-7,J1-4,C1-15,BZ1",
+    "used_designators": "U1-6,P1,SW1-3,#PWR1-18,D1-2,#FLG1-3,R1-7,J1-3,C1-9",
     "variants": []
   },
   "sheets": [

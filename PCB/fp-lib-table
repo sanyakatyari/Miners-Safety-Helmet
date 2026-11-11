@@ -1,4 +1,6 @@
 (fp_lib_table
 	(version 7)
-	(lib (name "custom") (type "KiCad") (uri "C:/Users/iamas/Documents/KiCad/custom.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "C:/Users/Lenovo/Desktop/Library.pretty") (options "") (descr ""))
+	(lib (name "Desktop") (type "KiCad") (uri "C:/Users/Lenovo/Desktop.pretty") (options "") (descr ""))
+	(lib (name "my") (type "KiCad") (uri "C:/Users/Lenovo/my.pretty") (options "") (descr ""))
 )
